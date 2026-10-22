@@ -23,6 +23,7 @@ Here is a typical workflow:
 ### ⌨️ Activity: Quick Review
 
 Answer one quick question for Mona, and she will share the final review! 🎉
+To trigger Mona's response, edit this issue comment by checking one box below.
 
 **What is your favorite feature of Git?**
 
